@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haseebx
 - 👀 I’m interested in Full Stack dev
-- 🌱 I’m currently learning React.js and pytone for backend
+- 🌱 I’m currently learning React.js/Next.js and Node.js for backend
 - 💞️ I’m looking to collaborate on multi-national company
 - 📫 How to reach me hasbm125@gmail.com
 
