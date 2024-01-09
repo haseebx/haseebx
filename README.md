@@ -12,7 +12,7 @@
   <a href="https://github.com/haseebx/">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/haseebx?color=green&logo=github">
   </a>
-  <a href="https://github.com/haseebx/">
+  <a href="https://www.linkedin.com/in/haseebx1">
     <img src="https://komarev.com/ghpvc/?username=haseebx" alt="Profile Views" />
   </a>
 </p>
