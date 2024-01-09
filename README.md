@@ -35,7 +35,7 @@
 ## ⚡ GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haseebx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebx&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebx&show_icons=true&hide_borderfalse&layout=compact&langs_count=15"/>
 </p>
 
 <!-- 🌐 Programming Languages -->
@@ -53,9 +53,9 @@
 
 <!-- 🎓 Education -->
 ## 🎓 Education
-**Bachelors in Computer Science (CGPA: 3.8)**
-National College of Business Administration & Economics (NCBA & E)
-2018 – 2022 | Lahore, Pakistan
+**Bachelors in Computer Science (CGPA: 3.0)**
+University Of Central Punjab (UCP)
+2017 – 2022 | Lahore, Pakistan
 
 <!-- 🚀 Certifications -->
 ## 🚀 Certifications
