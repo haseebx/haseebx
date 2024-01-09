@@ -27,15 +27,15 @@
 - 🏢 Currently working at **Upwork**
 - ⚙️ Daily tools: `.js`, `.ts`, `.sh`
 - 🌱 Learning more about **DevOps & Full Stack Development**
-- 💬 Let's chat about **Node.js**, **React**, **React Native**, **Docker**, **REST APIs**
+- 💬 Let's chat about **Node.js**, **React**, **React Native**, **Docker**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haseebx1/)
 - 📝 Check out my [Resume]()
 
 <!-- GitHub Stats -->
 ## ⚡ GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubaidmanzoor987&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidmanzoor987&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haseebx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebx&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
 
 <!-- 🌐 Programming Languages -->
@@ -59,22 +59,14 @@ National College of Business Administration & Economics (NCBA & E)
 
 <!-- 🚀 Certifications -->
 ## 🚀 Certifications
-- Front-End Web Development with React
-  - Coursera ID: MSSQ4P4VXNFB
-  - Jan, 2020
-  - [View Certificate](Add_Certificate_Link_Here)
 
 - Front-End Web Development with React
   - Hackerrank URL: [Certificate Link](https://www.hackerrank.com/certificates/93146a038b28)
-  - Mar, 2020
+  - Dec, 2022
 
 - Back-End Web Development with Node
   - Hackerrank URL: [Certificate Link](https://www.hackerrank.com/certificates/3ba54f8933eb)
-  - Mar, 2020
-
-- Multi-platform Mobile App Development with React Native
-  - Coursera ID: B44VGUBRYEGP
-  - Feb, 2020
+  - Jan, 2023
 
 <!-- 💼 Professional Experience -->
 ## 💼 Professional Experience
